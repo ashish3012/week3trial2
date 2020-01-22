@@ -16,6 +16,8 @@ public class Week3example {
      */
     public static void main(String[] args) {
         System.out.println("LEarnin gtoday in week 3");
+         System.out.println("change in line3");
+        
     }
     
 }
